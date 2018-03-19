@@ -24,3 +24,6 @@ hs_err_pid*
 # Intellij IDEA project file
 .idea/
 *.iml
+
+# filter target directory
+target/
